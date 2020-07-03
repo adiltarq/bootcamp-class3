@@ -5,9 +5,9 @@ import Dinner from './dinner';
 
 function App() {
   return <div className="App">
-    <Dinner DishName="Chiken Karahi" sweetDish="Ice Cream"/>
+    <Dinner DishName="Chiken Biryani" sweetDish="Ice Cream"/>
     <hr/>
-    <Dinner DishName="Chiken Biryani" sweetDish="Jalebi"/>
+    <Dinner DishName="Chiken korma" sweetDish="Jalebi"/>
     <hr/>
     <Dinner DishName="Chiken Boti Roll" sweetDish="Pastry"/>
     <hr/>
