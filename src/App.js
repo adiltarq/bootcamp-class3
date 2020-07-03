@@ -9,7 +9,7 @@ function App() {
     <hr/>
     <Dinner DishName="Chiken korma" sweetDish="Jalebi"/>
     <hr/>
-    <Dinner DishName="Chiken Boti Roll" sweetDish="Pastry"/>
+    <Dinner DishName="Chiken Karahi" sweetDish="Pastry"/>
     <hr/>
     <Dinner DishName="Chiken Nihari" sweetDish="Gajar Ka Halwa"/>
   </div>
